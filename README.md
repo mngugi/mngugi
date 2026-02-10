@@ -38,6 +38,7 @@ I design and build **secure, explainable learning systems**, connecting
 
 ### 🛠 Tools & Technologies
 🧪 Digital Forensics Tools (Teal)
+
 [![Exterro FTK](https://img.shields.io/badge/Exterro_FTK-%23000000.svg?logo=ftk&logoColor=Cyan)](https://example.com)
 
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
