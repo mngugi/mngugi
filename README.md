@@ -62,7 +62,12 @@ I design and build **secure, explainable learning systems**, connecting
 [![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)](#)
 [![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white)](#)
 
-🖥 System Administration (Navy)
+🖥 Operating Systems (Navy)
+[![Debian](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=fff)](#)
+[![Fedora](https://img.shields.io/badge/Fedora-51A2DA?logo=fedora&logoColor=fff)](#)
+
+
+
 
 🕵️ Ethical Hacking (Dark Red)
 
