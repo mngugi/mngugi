@@ -1,9 +1,7 @@
 ![Name](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&color=006666&lines=Peter+M.+Ngugi)
 
-
 <h2 style="color:#00ffff;">Hi 👋,</h2>
-
-
+---
 🧠 Computing Science | AI, Security & Education  
 🔬 Research-driven systems builder  
 🌍 Kenya  
