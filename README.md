@@ -63,7 +63,9 @@ I design and build **secure, explainable learning systems**, connecting
 [![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white)](#)
 
 🖥 System Administration (Navy)
+
 🕵️ Ethical Hacking (Dark Red)
+
 📋 Project Management (Green)
 
 
