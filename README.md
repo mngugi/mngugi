@@ -51,6 +51,8 @@ I design and build **secure, explainable learning systems**, connecting
 [![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)](#)
 [![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](#)
 [![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white)](#)
+[![Exterro FTK](https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white)](https://example.com)
+
 
 
 
