@@ -3,7 +3,6 @@
 <h2 style="color:#00ffff;">Hi 👋,</h2>
 ---
 
-
 🧠 Computing Science | AI, Security & Education  
 🔬 Research-driven systems builder  
 🌍 Kenya  
