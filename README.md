@@ -1,4 +1,5 @@
-![Name](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&color=006666&lines=Peter+M.+Ngugi)
+![Name](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&color=006666&lines=Peter+M.+Ngugi)
+
 
 <h2 style="color:#00ffff;">Hi 👋,</h2>
 ---
