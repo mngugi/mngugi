@@ -1,6 +1,6 @@
 ![Name](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&color=22D3EE&lines=Peter+M.+Ngugi)
 
-<h2 style="color:#00ffff;">Hi 👋, I'm Peter M. Ngugi</h2>
+<h2 style="color:#00ffff;">Hi 👋,</h2>
 ---
 
 
