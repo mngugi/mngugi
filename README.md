@@ -1,4 +1,5 @@
-<h2 style="color:#58a6ff;"> Hi 👋, I'm Peter M. Ngugi </h2>
+<h2 style="color:#06b6d4;">Hi 👋, I'm Peter M. Ngugi</h2>
+
 
 🧠 Computing Science | AI, Security & Education  
 🔬 Research-driven systems builder  
