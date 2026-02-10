@@ -37,21 +37,10 @@ I design and build **secure, explainable learning systems**, connecting
 ---
 
 ### 🛠 Tools & Technologies
-🧪 Digital Forensics Tools (Teal)
-
 [![Exterro FTK](https://img.shields.io/badge/Exterro_FTK-%23000000.svg?logo=ftk&logoColor=Cyan)](https://example.com)
-
-📊 Data Science Tools (Blue)
-
 ![Jupyter](https://img.shields.io/badge/Jupyter-ffffff?logo=Jupyter)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-
-🌐 Networking (Purple)
-
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-
-💻 Programming Languages (Dark Blue)
-
 [![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](#)
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -62,8 +51,6 @@ I design and build **secure, explainable learning systems**, connecting
 [![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)](#)
 [![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white)](#)
 [![PyPI](https://img.shields.io/badge/PyPI-3775A9?logo=pypi&logoColor=fff)](#)
-
-🖥 Operating Systems (Navy)
 [![Debian](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=fff)](#)
 [![Fedora](https://img.shields.io/badge/Fedora-51A2DA?logo=fedora&logoColor=fff)](#)
 [![Pop!_OS](https://img.shields.io/badge/Pop!__OS-48B9C7?logo=popos&logoColor=fff)](#)
@@ -71,9 +58,7 @@ I design and build **secure, explainable learning systems**, connecting
 
 
 
-🕵️ Ethical Hacking (Dark Red)
 
-📋 Project Management (Green)
 
 
 
