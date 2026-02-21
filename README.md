@@ -73,7 +73,7 @@ I design and build **secure, explainable learning systems**, connecting
 
 ---
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=mngugi)](https://github.com/mngugi/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=mngugi/mngugi)](https://github.com/mngugi/github-readme-stats)
 
 
 
