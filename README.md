@@ -59,15 +59,6 @@ I design and build **secure, explainable learning systems**, connecting
 [![Fedora](https://img.shields.io/badge/Fedora-51A2DA?logo=fedora&logoColor=fff)](#)
 [![Pop!_OS](https://img.shields.io/badge/Pop!__OS-48B9C7?logo=popos&logoColor=fff)](#)
 
-
-
-
-
-
-
-
-
-
 ---
 
 ### 📌 Current Focus
@@ -77,13 +68,8 @@ I design and build **secure, explainable learning systems**, connecting
 
 ---
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mngugi&show_icons=true&theme=dark)](https://github.com/mngugi/github-readme-stats)
-
-
-
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mngugi&show_icons=true&theme=github_dark" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mngugi&layout=compact&theme=github_dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mngugi&show_icons=true&theme=github_dark&title_color=00e5ff&icon_color=00e5ff&text_color=c9d1d9&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mngugi&layout=compact&theme=github_dark&title_color=00e5ff&text_color=c9d1d9&hide_border=true" height="170" />
 </div>
 
