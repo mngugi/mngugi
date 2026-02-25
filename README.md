@@ -87,8 +87,6 @@ I design and build **secure, explainable learning systems**, connecting
 
 ---
 
-<div align="center">
-  <img src="https://tokei.rs/b1/github/mngugi?category=code&show_langs=true" />
-</div>
+![Lines of Code](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/arhamkhnz/your-gist-id/raw/loc-badge.json)
 
 ---
