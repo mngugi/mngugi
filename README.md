@@ -97,11 +97,7 @@ I design and build **secure, explainable learning systems**, connecting
 </div>
 
 <br/>
-
-
-
 <br/>
-
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mngugi&theme=github-dark&hide_border=true" />
 </div>
