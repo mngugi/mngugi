@@ -1,7 +1,8 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&color=C0C0C0&lines=Peter+M.+Ngugi" />
-  <h2 style="color:#00ffff; align="center">Hello and Welcome!</h2>
 </p>
+
+<h2 align="center">Hello, Welcome! 👋</h2>
 
 
 
