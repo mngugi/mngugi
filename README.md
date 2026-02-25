@@ -105,6 +105,25 @@ I design and build **secure, explainable learning systems**, connecting
 </div>
 
 ---
+<h2 align="center">📊 GitHub Activity</h2>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mngugi&theme=github_dark" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=mngugi&theme=github-dark&hide_border=true" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mngugi&theme=github-dark&hide_border=true" />
+</div>
+
+---
 ![Python](https://img.shields.io/badge/Python-Expert-00e5ff?logo=python)
 ![Linux](https://img.shields.io/badge/Linux-Power_User-0d1117?logo=linux)
 ![AI](https://img.shields.io/badge/AI-Research-00e5ff)
