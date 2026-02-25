@@ -87,8 +87,10 @@ I design and build **secure, explainable learning systems**, connecting
 
 ---
 
+<h3 align="center">📊 Code Metrics</h3>
+
 <div align="center">
-  <img src="https://tokei.rs/b1/github/mngugi?category=code" />
+  <img src="https://tokei.rs/b1/github/mngugi?category=code&show_langs=true" />
 </div>
 
 ---
