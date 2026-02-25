@@ -1,5 +1,4 @@
-![Name](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&color=C0C0C0&lines=Peter+M.+Ngugi;AI+%7C+Security+%7C+Education)
-
+![Name](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&color=00E5FF&lines=Peter+M.+Ngugi)
 <h2 style="color:#00ffff;">Hi 👋,</h2>
 
 🧠 Computing Science | AI, Security & Education  
