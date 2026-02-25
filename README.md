@@ -92,9 +92,8 @@ I design and build **secure, explainable learning systems**, connecting
 </div>
 
 ---
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mngugi&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mngugi&theme=github_dark" />
-</div>
-
+![Python](https://img.shields.io/badge/Python-Expert-00e5ff?logo=python)
+![Linux](https://img.shields.io/badge/Linux-Power_User-0d1117?logo=linux)
+![AI](https://img.shields.io/badge/AI-Research-00e5ff)
+![Security](https://img.shields.io/badge/Cybersecurity-Offensive-red)
 ---
