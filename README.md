@@ -86,3 +86,9 @@ I design and build **secure, explainable learning systems**, connecting
 </div>
 
 ---
+
+<div align="center">
+  <img src="https://tokei.rs/b1/github/mngugi?category=code" />
+</div>
+
+---
