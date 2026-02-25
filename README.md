@@ -73,3 +73,7 @@ I design and build **secure, explainable learning systems**, connecting
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mngugi&theme=github_dark" height="170"/>
 </div>
 
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mngugi&theme=github_dark" />
+</div>
+
