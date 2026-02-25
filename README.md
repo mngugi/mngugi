@@ -84,6 +84,10 @@ I design and build **secure, explainable learning systems**, connecting
 <h2 align="center">📊 GitHub Activity</h2>
 
 <div align="center">
+  <img src="https://streak-stats.demolab.com?user=mngugi&theme=github-dark&hide_border=true" />
+</div>
+
+<div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mngugi&theme=github_dark" height="170"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mngugi&theme=github_dark" height="170"/>
 </div>
@@ -94,9 +98,7 @@ I design and build **secure, explainable learning systems**, connecting
 
 <br/>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=mngugi&theme=github-dark&hide_border=true" />
-</div>
+
 
 <br/>
 
