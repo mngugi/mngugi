@@ -87,6 +87,8 @@ I design and build **secure, explainable learning systems**, connecting
 
 ---
 
-![Lines of Code](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/arhamkhnz/your-gist-id/raw/loc-badge.json)
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=mngugi&theme=github-dark&hide_border=true" />
+</div>
 
 ---
