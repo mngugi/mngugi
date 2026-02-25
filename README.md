@@ -69,7 +69,7 @@ I design and build **secure, explainable learning systems**, connecting
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mngugi&show_icons=true&theme=github_dark&title_color=00e5ff&icon_color=00e5ff&text_color=c9d1d9&hide_border=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mngugi&layout=compact&theme=github_dark&title_color=00e5ff&text_color=c9d1d9&hide_border=true" height="170" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mngugi&theme=github_dark" height="170"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mngugi&theme=github_dark" height="170"/>
 </div>
 
