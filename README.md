@@ -61,6 +61,19 @@ I design and build **secure, explainable learning systems**, connecting
 
 ---
 
+### 🔬 Focus Areas
+- Artificial Intelligence in Education
+- Secure Learning Systems (K–12)
+- Privacy-Preserving ML
+- Web & Mobile Vulnerability Research
+
+### 🚧 Current Work
+- Secure AI tutoring system for primary education
+- Web vulnerability documentation (100-part series)
+- C & Linux systems tooling
+  
+---
+
 ### 📌 Current Focus
 - Building a **secure AI education platform** for primary learners
 - Bridging **academic research and practical systems**
