@@ -25,10 +25,10 @@ I design and build **secure, explainable learning systems**, connecting
 ---
 
 ### 🧪 Selected Work
-- **AI Learning Systems** – Experimental models for reinforcing concepts across subjects  
-- **Security & Web Vulnerabilities** – Documented vulnerabilities with practical mitigation insights  
-- **Systems Programming (C)** – Low-level implementations to study performance, memory, and learning behavior  
-- **Algorithms & Data Structures** – Theory translated into executable models
+- **AI Learning Systems** – Experimental models for reinforcing concepts across subjects.  
+- **Security & Web Vulnerabilities** – Documented vulnerabilities with practical mitigation insights.  
+- **Systems Programming (C)** – Low-level implementations to study performance, memory, and learning behavior.  
+- **Algorithms & Data Structures** – Theory translated into executable models.
 
 ---
 
