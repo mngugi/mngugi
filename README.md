@@ -16,11 +16,11 @@ I design and build **secure, explainable learning systems**, connecting
 ---
 
 ### 🔬 Research Interests
-- AI-driven learning systems (Grade 3–6)
-- Secure & ethical educational AI
-- Explainable AI in low-resource environments
-- Cross-subject knowledge reinforcement
-- Systems-level understanding of algorithms and data structures
+- AI-driven learning systems (Grade 3–6).
+- Secure & ethical educational AI.
+- Explainable AI in low-resource environments.
+- Cross-subject knowledge reinforcement.
+- Systems-level understanding of algorithms and data structures.
 
 ---
 
