@@ -6,9 +6,10 @@
 
 
 
-🧠 Computing Science | AI, Security & Education  
-🔬 Research-driven systems builder  
-🌍 Kenya  
+🧠 Computing Science | AI | Security | Education  
+🔬 Research-driven systems builder.  
+
+---
 
 I design and build **secure, explainable learning systems**, connecting  
 **theory → models → working software** with a strong focus on real-world impact.
