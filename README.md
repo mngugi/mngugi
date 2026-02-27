@@ -1,10 +1,14 @@
-<div style="text-align: center;">
+<div align="center">
 
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&color=C0C0C0&lines=Peter+M.+Ngugi" 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=C0C0C0&center=true&vCenter=true&width=600&lines=Peter+M.+Ngugi" 
   />
 
-  <h2>Hello, Welcome! 🐝</h2>
+  <br/>
+
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=808080&center=true&vCenter=true&width=600&lines=AI+%7C+Security+%7C+Systems+Engineering;Building+Intelligent+Secure+Systems;MSc+Computing+Science" 
+  />
 
 </div>
 
