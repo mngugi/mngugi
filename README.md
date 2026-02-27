@@ -1,10 +1,10 @@
-<div align="center">
+<div style="text-align: center;">
 
   <img 
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&color=C0C0C0&lines=Peter+M.+Ngugi" 
   />
 
-  <h2 style="margin-top: 10px;">Hello, Welcome! 🐝</h2>
+  <h2>Hello, Welcome! 🐝</h2>
 
 </div>
 
