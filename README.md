@@ -19,8 +19,8 @@
 
 ---
 
-I design and build **secure, explainable learning systems**, connecting  
-**theory → models → working software** with a strong focus on real-world impact.
+I design and build **secure, explainable learning systems**, connecting **theory → models → working software** 
+with a strong focus on real-world impact.
 
 ---
 
