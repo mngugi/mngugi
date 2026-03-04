@@ -25,6 +25,7 @@ with a strong focus on real-world impact.
 ---
 
 ### 🔬 Research Interests
+- AI and CyberForensics 
 - AI-driven learning systems (Grade 3–6).
 - Secure & ethical educational AI.
 - Explainable AI in low-resource environments.
@@ -75,6 +76,7 @@ with a strong focus on real-world impact.
 - Secure Learning Systems (K–12).
 - Privacy-Preserving ML.
 - Web & Mobile Vulnerability Research.
+- AI and Cyberforensics.
 
 ### 🚧 Current Work
 - Secure AI tutoring system for primary education.
