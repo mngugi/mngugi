@@ -15,7 +15,8 @@
 ---
 
 🧠 **Computing Science | AI | Security | Education**
-🔬 Research-driven systems builder.  
+
+> 🔬 Research-driven systems builder.  
 
 ---
 
