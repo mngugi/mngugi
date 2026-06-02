@@ -14,7 +14,7 @@
 
 ---
 
-🧠 Computing Science | AI | Security | Education  
+🧠 **Computing Science | AI | Security | Education**
 🔬 Research-driven systems builder.  
 
 ---
