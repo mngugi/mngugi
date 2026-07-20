@@ -25,7 +25,7 @@ with a strong focus on real-world impact.
 
 ---
 
-### 🔬 Research Interests
+###🔬 Research Interests
 - AI and CyberForensics 
 - AI-driven learning systems (Grade 3–6).
 - Secure & ethical educational AI.
