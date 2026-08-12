@@ -51,7 +51,7 @@ with a strong focus on real-world impact.
 
 ---
 
-### 🛠 Tools & Technologies
+🛠 Tools & Technologies
 [![Exterro FTK](https://img.shields.io/badge/Exterro_FTK-%23000000.svg?logo=ftk&logoColor=Cyan)](https://example.com)
 ![Jupyter](https://img.shields.io/badge/Jupyter-ffffff?logo=Jupyter)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
