@@ -72,7 +72,7 @@ with a strong focus on real-world impact.
 
 ---
 
-###🔬Focus Areas
+🔬Focus Areas
 - Artificial Intelligence in Education.
 - Secure Learning Systems (K–12).
 - Privacy-Preserving ML.
