@@ -86,7 +86,7 @@ with a strong focus on real-world impact.
   
 ---
 
-### 📌 Current Focus
+📌 Current Focus
 - Building a **secure AI education platform** for primary learners
 - Bridging **academic research and practical systems**
 - Preparing research-grade projects for **MSc-level work**
