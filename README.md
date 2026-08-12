@@ -79,7 +79,7 @@ with a strong focus on real-world impact.
 - Web & Mobile Vulnerability Research.
 - AI and Cyberforensics.
 
-### 🚧 Current Work
+🚧 Current Work
 - Secure AI tutoring system for primary education.
 - Web vulnerability documentation (100-part series).
 - C & Linux systems tooling.
