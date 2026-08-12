@@ -43,7 +43,7 @@ with a strong focus on real-world impact.
 
 ---
 
-### ✍️ Writing & Research Notes
+✍️ Writing & Research Notes
 - 📝 **Medium** – Research reflections, technical breakdowns, and learning notes  
   👉 https://medium.com/@mngugi7  
 - 🔐 **Sentry Information (WordPress)** – Security analysis, vulnerability write-ups, and awareness content  
