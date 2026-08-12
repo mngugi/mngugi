@@ -35,7 +35,7 @@ with a strong focus on real-world impact.
 
 ---
 
-### 🧪 Selected Work
+🧪 Selected Work
 - **AI Learning Systems** – Experimental models for reinforcing concepts across subjects.  
 - **Security & Web Vulnerabilities** – Documented vulnerabilities with practical mitigation insights.  
 - **Systems Programming (C)** – Low-level implementations to study performance, memory, and learning behavior.  
